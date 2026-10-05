@@ -11,7 +11,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1wsYSlDZ01EIaenIEJ0VddqbPwG_IYa4p/view?usp=drive_link](https://drive.google.com/file/d/1XI4ITf8KJ20JQGPAYEdRFpz-2z_v8Ere/view?usp=sharing)
 
-- ⚡ Fun fact **Sometimes my “temporary fix” becomes a permanent feature.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
