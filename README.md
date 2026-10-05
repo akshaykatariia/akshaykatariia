@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaykatariia&label=Profile%20views&color=0e75b6&style=flat" alt="akshaykatariia" /> </p>
 
-- 🔭 I’m currently working on **DevConnect**
+- 🔭 I’m currently working on **RentAFriend**
 
 - 🌱 I’m currently learning **building full-stack web apps using MERN**
 
